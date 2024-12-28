@@ -1,3 +1,9 @@
+# Mindless ramblings
+Notes.txt
+
+# Lots of domain things that already exist in GitHub
+domains/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
