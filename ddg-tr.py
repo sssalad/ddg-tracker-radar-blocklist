@@ -1,20 +1,28 @@
-import json
-from domainDataFrame import DomainDataFrame
+from pathlib import Path
+from downloader import getDomains
+from searcher import Searcher
+from writer import writeDFtoList
 
-#input = '/home/ssalad/Documents/ddg-tracker-radar-blocklist/domains/NO/0i0i0i0.com.json'
-input = 'https://raw.githubusercontent.com/duckduckgo/tracker-radar/refs/heads/main/domains/NO/0i0i0i0.com.json'
+domainDirectory = Path.home() / ".ddgtrbl"
+domainCSV = domainDirectory / "domains.csv"
 
-with open(input, mode='r', encoding="utf-8") as read_file:
-    data = json.load(read_file)
-'''
-self.df = pandas.DataFrame(columns=['domain', 'owner', 'prevalence', 
-                                    'fingerprinting', 'cookies', 
-                                    'categories', 
-                                    'cnames'])
-'''
+listDirectory = Path.cwd() / "lists"
 
-df = DomainDataFrame()
-input = [data['domain'], data['owner'], data['prevalence'], data['fingerprinting'],
-         data['cookies'], data['categories'], data['cnames']]
-df.appendDomain(input)
-print(df.df)
+categories = ["Action Pixels", "Ad Fraud", "Ad Motivated Tracking", "Advertising", "Analytics" , 
+              "Audience Measurement", "Badge", "CDN", "Embedded Content", "Federated Login", 
+              "Malware", "Non-tracking", "Online Payment", "Obscure Ownership", "SSO", "Session Replay", 
+              "Social Network", "Social - Comment", "Social - Share", "Tag Manager", 
+              "Third-Party Analytics Marketing", "Unknown High Risk Behavior"]
+
+def main():
+    domainDirectory.mkdir(exist_ok=True, parents=True)
+    listDirectory.mkdir(exist_ok=True, parents=True)
+
+    #getDomains('zip', str(domainDirectory))
+    search = Searcher(domainCSV)
+    for category in categories:
+        categoryDF = search.searchCategory(category)
+        fileName = listDirectory / "{}.txt".format(category)
+        writeDFtoList(categoryDF, category, fileName)
+
+main()
