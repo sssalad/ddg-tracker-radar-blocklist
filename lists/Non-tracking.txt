@@ -1,5 +1,5 @@
 # Name: Non-tracking
-# Last Updated: 2025-01-03 00:45:02.914915+00:00
+# Last Updated: 2025-01-05 00:17:09.876539+00:00
 # Domain Count: 0
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
