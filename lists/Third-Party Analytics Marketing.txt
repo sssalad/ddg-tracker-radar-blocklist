@@ -1,5 +1,5 @@
 # Name: Third-Party Analytics Marketing
-# Last Updated: 2025-01-10 22:48:10.049475+00:00
+# Last Updated: 2025-01-10 23:11:13.132424+00:00
 # Domain Count: 1155
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

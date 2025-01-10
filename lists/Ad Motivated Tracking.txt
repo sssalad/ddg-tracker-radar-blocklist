@@ -1,5 +1,5 @@
 # Name: Ad Motivated Tracking
-# Last Updated: 2025-01-10 22:47:26.977317+00:00
+# Last Updated: 2025-01-10 23:10:30.640441+00:00
 # Domain Count: 2251
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

@@ -56,7 +56,7 @@ def main():
     
 
     # Do actual stuff 
-    getDomains('zip', str(domainDirectory))
+    getDomains('zip', str(domainDirectory), domainCSV)
     search = Searcher(domainCSV)
     for category in categories:
         if category not in exclusionList:

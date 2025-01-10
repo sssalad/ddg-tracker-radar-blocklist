@@ -3,7 +3,6 @@ To Do:
 Add better output to zip download, add percentage or something
 '''
 
-import fsspec
 from pathlib import Path
 import requests
 import zipfile
@@ -35,49 +34,9 @@ def readAllJson(localFolder):
                 ddf.appendDomain(input)
     return ddf
 
-############################
-### Downloader Functions ###
-############################
-def downloadDomainsHTML():
-    ddf = DomainDataFrame()
-
-    # Get list of regions
-    fs = fsspec.filesystem("github", org="duckduckgo", repo="tracker-radar")
-    regions = (fs.ls("domains/", details=False))
-
-    # For each domain in each region, add it to the data frame 
-    for region in regions:
-        for domain in fs.ls(region, details=False):
-            url = (githubBaseURL + "/" + domain)
-            try:
-                resp = requests.get(url)
-                data = resp.json()
-            except:
-                print("URL Failed: " + url)
-
-            input = [data['domain'], data['owner'], data['prevalence'], data['fingerprinting'],
-                     data['cookies'], data['categories'], data['cnames']]
-            ddf.appendDomain(input)
-    return ddf
-
-def downloadDomainsGitHub(localFolder):
-    #localFolder.mkdir(exist_ok=True, parents=True)
-    localFolder = Path(localFolder)
-    fs = fsspec.filesystem("github", org="duckduckgo", repo="tracker-radar")
-    fs.get(fs.ls("domains/"), localFolder.as_posix())
-
-    for folder in localFolder.iterdir():
-        #print("Downloading " + folder.stem + " domains")
-        localSubFolder = localFolder.joinpath(folder.stem)
-        #print(folder.stem)
-        fs.get(fs.ls("domains/" + str(folder.stem)), localSubFolder.as_posix())
-
-    #get dataframe
-    ddf = readAllJson(localFolder)
-    #cleanup files 
-
-    return ddf
-
+###########################
+### Downloader Function ###
+###########################
 def downloadDomainsZIP(localFolder):
     response = requests.get(zipDownloadURL, stream=True)
     zipFile = localFolder + "/tracker-radar.zip"
@@ -104,17 +63,6 @@ def downloadDomainsZIP(localFolder):
 #####################################################
 ### "Main" function that ties everything together ###
 #####################################################
-def getDomains(getType, localFolder):
-    outputFile = localFolder + "/domains.csv"
-
-    if getType == 'html':
-        ddf = downloadDomainsHTML()
-    elif getType == 'github':
-        ddf = downloadDomainsGitHub(localFolder)
-    elif getType == 'zip':
-        ddf = downloadDomainsZIP(localFolder)
-    else:
-        print("Error")
-        return 0
-    
-    ddf.df.to_csv(outputFile, encoding='utf-8', index=False, header=True)
+def getDomains(getType, localFolder, domainCSV):
+    ddf = downloadDomainsZIP(localFolder)
+    ddf.df.to_csv(domainCSV, encoding='utf-8', index=False, header=True)

@@ -1,5 +1,5 @@
 # Name: Tag Manager
-# Last Updated: 2025-01-10 22:48:06.712413+00:00
+# Last Updated: 2025-01-10 23:11:10.093650+00:00
 # Domain Count: 27
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
