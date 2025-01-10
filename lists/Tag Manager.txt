@@ -1,13 +1,11 @@
 # Name: Tag Manager
-# Last Updated: 2025-01-05 00:17:23.428419+00:00
+# Last Updated: 2025-01-10 22:48:06.712413+00:00
 # Domain Count: 27
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-tiqcdn.com
-adobedtm.com
 googletagmanager.com
 tiqcdn.com
 adobedtm.com
@@ -33,3 +31,5 @@ googletagmanager.com
 tiqcdn.com
 adobedtm.com
 googletagmanager.com
+tiqcdn.com
+adobedtm.com

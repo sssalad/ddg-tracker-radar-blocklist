@@ -1,5 +1,5 @@
 # Name: Unknown High Risk Behavior
-# Last Updated: 2025-01-05 00:17:27.592436+00:00
+# Last Updated: 2025-01-10 22:48:12.686811+00:00
 # Domain Count: 15
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
@@ -12,12 +12,12 @@ contentabc.com
 cdnwidget.com
 contentabc.com
 cdnwidget.com
-cdnwidget.com
 contentabc.com
-cdnwidget.com
-cdnwidget.com
 cdnwidget.com
 cdnwidget.com
 contentabc.com
 cdnwidget.com
 contentabc.com
+cdnwidget.com
+cdnwidget.com
+cdnwidget.com

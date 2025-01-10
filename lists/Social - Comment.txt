@@ -1,93 +1,52 @@
 # Name: Social - Comment
-# Last Updated: 2025-01-05 00:17:20.148846+00:00
-# Domain Count: 85
+# Last Updated: 2025-01-10 22:48:01.809137+00:00
+# Domain Count: 44
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-twimg.com
-vk.com
-disquscdn.com
-facebook.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-po.st
-facebook.net
-twimg.com
 vk.com
-disquscdn.com
-facebook.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-facebook.net
-twimg.com
 vk.com
-facebook.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-facebook.net
-twimg.com
 vk.com
-facebook.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-po.st
-facebook.net
-twimg.com
 vk.com
-facebook.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-facebook.net
-twimg.com
 vk.com
-facebook.com
+disqus.com
+twitter.com
+quora.com
+vk.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-facebook.net
-twimg.com
 vk.com
-facebook.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-facebook.net
-twimg.com
 vk.com
-disquscdn.com
-facebook.com
+disqus.com
 rfihub.net
 twitter.com
-reddit.com
 quora.com
-disqus.com
-facebook.net
-twimg.com
 vk.com
-facebook.com
-twitter.com
-reddit.com
-quora.com
 disqus.com
-facebook.net
