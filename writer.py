@@ -1,4 +1,4 @@
-import pandas
+#import pandas
 from datetime import datetime, timezone
 
 
@@ -22,4 +22,4 @@ def writeDFtoList(df, listName, outputFile):
         f.write(getFileHeader(listName, rowCount))
 
         for index, row in df.iterrows():
-            f.write(row['domain'] + "\n")
+            f.write("0.0.0.0 " + row['domain'] + "\n")

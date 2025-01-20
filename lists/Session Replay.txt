@@ -1,212 +1,211 @@
 # Name: Session Replay
-# Last Updated: 2025-01-10 23:11:00.640896+00:00
-# Domain Count: 204
+# Last Updated: 2025-01-15 02:17:52.052425+00:00
+# Domain Count: 203
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-exponential.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-foresee.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-eyereturn.com
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-exponential.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-foresee.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-eyereturn.com
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-exponential.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-foresee.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-webvisor.org
-hotjar.com
-qualaroo.com
-yandex.ru
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-webvisor.org
-hotjar.com
-qualaroo.com
-yandex.ru
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-exponential.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-mouseflow.com
-heapanalytics.com
-flashtalking.com
-ezoic.net
-hellobar.com
-inspectlet.com
-tealiumiq.com
-contentsquare.net
-fullstory.com
-crazyegg.com
-permutive.com
-ml314.com
-mixpanel.com
-abtasty.com
-exponential.com
-visualwebsiteoptimizer.com
-mxpnl.com
-qualtrics.com
-foresee.com
-webvisor.org
-hotjar.com
-qualaroo.com
-clicktale.net
-yandex.ru
-mouseflow.com
-heapanalytics.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 foresee.com
+0.0.0.0 inspectlet.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 exponential.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 eyereturn.com
+0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 foresee.com
+0.0.0.0 inspectlet.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 exponential.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 eyereturn.com
+0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 inspectlet.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 inspectlet.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 foresee.com
+0.0.0.0 inspectlet.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 exponential.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 exponential.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 foresee.com
+0.0.0.0 inspectlet.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 exponential.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
+0.0.0.0 qualaroo.com
+0.0.0.0 ezoic.net
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 fullstory.com
+0.0.0.0 yandex.ru
+0.0.0.0 abtasty.com
+0.0.0.0 hotjar.com
+0.0.0.0 contentsquare.net
+0.0.0.0 permutive.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 hellobar.com
+0.0.0.0 crazyegg.com
+0.0.0.0 flashtalking.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 mxpnl.com
+0.0.0.0 exponential.com
+0.0.0.0 qualtrics.com
+0.0.0.0 ml314.com
+0.0.0.0 mixpanel.com
+0.0.0.0 webvisor.org
+0.0.0.0 qualaroo.com

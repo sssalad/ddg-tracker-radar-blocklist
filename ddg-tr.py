@@ -16,7 +16,6 @@ from writer import writeDFtoList
 parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
 parser.add_argument('-d', '--domaindirectory', default=(Path.home() / ".ddgtrbl"), help="Directory that domain data will be stored in")
 parser.add_argument('-l', '--listdirectory', default=(Path.cwd() / "lists"), help="Directory that lists will be written to")
-#parser.add_argument('-e','--exclude', action='append', help="Exclude a category from all results")
 parser.add_argument('-e','--exclude', nargs='*', default=["Badge", "CDN"], help="Exclude a category from all results")
 args = vars(parser.parse_args())
 

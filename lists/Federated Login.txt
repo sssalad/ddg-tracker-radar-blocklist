@@ -1,53 +1,53 @@
 # Name: Federated Login
-# Last Updated: 2025-01-10 23:10:46.422651+00:00
+# Last Updated: 2025-01-15 02:17:42.545290+00:00
 # Domain Count: 45
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
-dmxleo.com
-twitter.com
-vk.com
-yahoo.com
-disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com
+0.0.0.0 yahoo.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 dmxleo.com
+0.0.0.0 disqus.com

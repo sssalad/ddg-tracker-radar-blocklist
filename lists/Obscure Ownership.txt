@@ -1,40 +1,43 @@
 # Name: Obscure Ownership
-# Last Updated: 2025-01-10 23:10:55.814225+00:00
-# Domain Count: 32
+# Last Updated: 2025-01-15 02:17:48.781800+00:00
+# Domain Count: 35
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-cpx.to
-254a.com
-s3xified.com
-cdnwidget.com
-contentabc.com
-company-target.com
-cpx.to
-cdnwidget.com
-contentabc.com
-company-target.com
-cpx.to
-cdnwidget.com
-contentabc.com
-company-target.com
-cpx.to
-cdnwidget.com
-company-target.com
-cdnwidget.com
-contentabc.com
-company-target.com
-cpx.to
-cdnwidget.com
-contentabc.com
-company-target.com
-cdnwidget.com
-company-target.com
-cpx.to
-cdnwidget.com
-company-target.com
-cpx.to
-cdnwidget.com
-company-target.com
+0.0.0.0 254a.com
+0.0.0.0 cpx.to
+0.0.0.0 s3xified.com
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 contentabc.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 contentabc.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 contentabc.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 contentabc.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 contentabc.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 cdnwidget.com
+0.0.0.0 contentabc.com
+0.0.0.0 cpx.to
+0.0.0.0 company-target.com
+0.0.0.0 contentabc.com

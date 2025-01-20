@@ -1,52 +1,52 @@
 # Name: Social - Comment
-# Last Updated: 2025-01-10 23:11:05.386582+00:00
+# Last Updated: 2025-01-15 02:17:55.258301+00:00
 # Domain Count: 44
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
-rfihub.net
-twitter.com
-quora.com
-vk.com
-disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 rfihub.net
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
+0.0.0.0 vk.com
+0.0.0.0 twitter.com
+0.0.0.0 quora.com
+0.0.0.0 disqus.com
