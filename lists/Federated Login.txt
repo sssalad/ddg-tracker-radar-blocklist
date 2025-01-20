@@ -1,5 +1,5 @@
 # Name: Federated Login
-# Last Updated: 2025-01-15 02:17:42.545290+00:00
+# Last Updated: 2025-01-20 23:40:59.932038+00:00
 # Domain Count: 45
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

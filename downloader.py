@@ -45,7 +45,7 @@ def downloadDomainsZIP(localFolder):
 
     with open(zipFile, mode="wb") as file:
         for chunk in response.iter_content(chunk_size=10 * 1024):
-            print("Writing another chunk")
+            #print("Writing another chunk")
             file.write(chunk)
     
     # Extract the zip

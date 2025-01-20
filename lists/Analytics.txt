@@ -1,5 +1,5 @@
 # Name: Analytics
-# Last Updated: 2025-01-15 02:17:37.131855+00:00
+# Last Updated: 2025-01-20 23:40:54.722536+00:00
 # Domain Count: 1963
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

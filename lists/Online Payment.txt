@@ -1,5 +1,5 @@
 # Name: Online Payment
-# Last Updated: 2025-01-15 02:17:47.244255+00:00
+# Last Updated: 2025-01-20 23:41:04.339156+00:00
 # Domain Count: 20
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
