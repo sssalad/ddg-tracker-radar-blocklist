@@ -1,6 +1,7 @@
 '''
 To Do:
 Add option to skip download?
+Clean up duplicate domains
 '''
 
 from pathlib import Path
