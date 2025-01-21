@@ -44,8 +44,8 @@ def downloadDomainsZIP(localFolder):
     extractedDomainFolder = localFolder + "/tracker-radar/tracker-radar-main/domains/"
 
     with open(zipFile, mode="wb") as file:
+        print("Downloading stuff, this might take a bit...")
         for chunk in response.iter_content(chunk_size=10 * 1024):
-            #print("Writing another chunk")
             file.write(chunk)
     
     # Extract the zip
@@ -63,6 +63,6 @@ def downloadDomainsZIP(localFolder):
 #####################################################
 ### "Main" function that ties everything together ###
 #####################################################
-def getDomains(getType, localFolder, domainCSV):
+def getDomains(localFolder, domainCSV):
     ddf = downloadDomainsZIP(localFolder)
     ddf.df.to_csv(domainCSV, encoding='utf-8', index=False, header=True)

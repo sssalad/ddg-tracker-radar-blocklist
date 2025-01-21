@@ -2,6 +2,7 @@
 To Do:
 Add option to skip download?
 Clean up duplicate domains
+Include CNAMEs
 '''
 
 from pathlib import Path
@@ -56,7 +57,7 @@ def main():
     
 
     # Do actual stuff 
-    getDomains('zip', str(domainDirectory), domainCSV)
+    getDomains(str(domainDirectory), domainCSV)
     search = Searcher(domainCSV)
     for category in categories:
         if category not in exclusionList:
