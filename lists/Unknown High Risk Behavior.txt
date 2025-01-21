@@ -1,6 +1,6 @@
 # Name: Unknown High Risk Behavior
-# Last Updated: 2025-01-20 23:41:18.538979+00:00
-# Domain Count: 16
+# Last Updated: 2025-01-21 20:07:50.135889+00:00
+# Domain Count: 3
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -8,17 +8,4 @@
 
 0.0.0.0 s3xified.com
 0.0.0.0 cdnwidget.com
-0.0.0.0 contentabc.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 contentabc.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 contentabc.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 contentabc.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 contentabc.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 contentabc.com
 0.0.0.0 contentabc.com
