@@ -26,6 +26,24 @@ class Searcher:
 
         return newDF
     
+    def searchFingerprint(self, fingerprint, exclusionList):
+        newDF = DomainDataFrame()
+
+        # For each row...
+        for index, row in self.df.iterrows():
+            if fingerprint == row['fingerprinting']:
+                include = True
+                for badCategory in exclusionList:
+                    if badCategory in row['categories']:
+                        include = False
+                        break
+                if include:
+                    input = [row['domain'], row['owner'], row['prevalence'], row['fingerprinting'], 
+                                   row['cookies'], row['categories'], row['cnames']]
+                    newDF.appendDomain(input)
+
+        return newDF
+    
     def getCNAMEs(self, ddf):
         newDF = ddf
 

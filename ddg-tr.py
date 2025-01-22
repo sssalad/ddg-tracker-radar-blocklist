@@ -76,4 +76,12 @@ def main():
             fileName = listDirectory / "{}.txt".format(category)
             writeDFtoList(categoryDF.df, category, fileName)
 
+    # Make lists for all the fingerprinting levels and include CNAMEs (if not excluded)
+    for i in range(4):
+        fingerprintDF = search.searchFingerprint(i, exclusionList)
+        if not excludCNAMEs:
+            fingerprintDF = search.getCNAMEs(fingerprintDF)
+        fileName = listDirectory / "Fingerprint-{}.txt".format(i)
+        writeDFtoList(fingerprintDF.df, "Fingerprint-{}".format(i), fileName)
+
 main()
