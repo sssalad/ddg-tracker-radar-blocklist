@@ -1,7 +1,9 @@
 # ddg-tracker-radar-blocklist
 These lists are generated an maintained using data from [DuckDuckGo's Tracker Radar](https://github.com/duckduckgo/tracker-radar). Lists are intended to be used by a [Pi-hole](https://pi-hole.net/).
 
-Lists can be used directly from this Github in a Pi-hole instance, or this can be ran on a scheduled task to customize and save lists locally. Currently, lists are split up based on the [Tracker Radar categories](https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md) (Badge and CDN are excluded by default). 
+Lists can be used directly from this Github in a Pi-hole instance, or this can be ran on a scheduled task to customize and save lists locally. Currently, lists are split up based on the [Tracker Radar categories](https://github.com/duckduckgo/tracker-radar/blob/main/docs/CATEGORIES.md) (Badge and CDN are excluded by default) and Fingerprinting values.
+
+It it not recommended to use all of these lists as blocklists, some may be beneficial though.
 
 # Installation 
 ### Prerequisits
