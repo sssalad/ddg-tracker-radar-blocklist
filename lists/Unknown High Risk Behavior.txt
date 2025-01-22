@@ -1,5 +1,5 @@
 # Name: Unknown High Risk Behavior
-# Last Updated: 2025-01-21 20:07:50.135889+00:00
+# Last Updated: 2025-01-22 18:47:52.919263+00:00
 # Domain Count: 3
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

@@ -1,11 +1,12 @@
 # Name: Online Payment
-# Last Updated: 2025-01-21 20:07:39.719637+00:00
-# Domain Count: 4
+# Last Updated: 2025-01-22 18:47:42.733250+00:00
+# Domain Count: 5
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 fls-eu.amazon.co.za
 0.0.0.0 alipay.com
 0.0.0.0 amazon.com
 0.0.0.0 mercadopago.com

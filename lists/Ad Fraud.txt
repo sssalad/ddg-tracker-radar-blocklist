@@ -1,11 +1,13 @@
 # Name: Ad Fraud
-# Last Updated: 2025-01-21 20:07:28.896649+00:00
-# Domain Count: 44
+# Last Updated: 2025-01-22 18:47:31.713436+00:00
+# Domain Count: 46
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 rma.homedepot.com
+0.0.0.0 sa.casino.org
 0.0.0.0 extend.tv
 0.0.0.0 openx.net
 0.0.0.0 doubleverify.com

@@ -1,11 +1,14 @@
 # Name: Action Pixels
-# Last Updated: 2025-01-21 20:07:27.768958+00:00
-# Domain Count: 79
+# Last Updated: 2025-01-22 18:47:30.565647+00:00
+# Domain Count: 82
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 fpa-cdn.adweek.com
+0.0.0.0 ans.milb.com
+0.0.0.0 ca.hoffmann-group.com
 0.0.0.0 bizrate.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 commander1.com

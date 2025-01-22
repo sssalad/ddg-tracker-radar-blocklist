@@ -1,4 +1,5 @@
 import pandas
+import ast
 from domainDataFrame import DomainDataFrame
 
 # Class to search DomainDataFrames. 
@@ -23,4 +24,16 @@ class Searcher:
                                    row['cookies'], row['categories'], row['cnames']]
                     newDF.appendDomain(input)
 
-        return newDF.df
+        return newDF
+    
+    def getCNAMEs(self, ddf):
+        newDF = ddf
+
+        # For each row...
+        for index, row in ddf.df.iterrows():
+            cnames = ast.literal_eval(row['cnames'])
+            if len(cnames) > 0:
+                input = [cnames[0]['original'], row['owner'], row['prevalence'], row['fingerprinting'],
+                     row['cookies'], row['categories'], "CNAME"]
+                newDF.appendDomain(input)
+        return newDF
