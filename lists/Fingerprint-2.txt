@@ -1,5 +1,5 @@
 # Name: Fingerprint-2
-# Last Updated: 2025-01-22 19:17:46.186223+00:00
+# Last Updated: 2025-01-22 19:23:28.856432+00:00
 # Domain Count: 4976
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

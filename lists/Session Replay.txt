@@ -1,5 +1,5 @@
 # Name: Session Replay
-# Last Updated: 2025-01-22 19:17:14.226992+00:00
+# Last Updated: 2025-01-22 19:22:56.308326+00:00
 # Domain Count: 26
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

@@ -1,5 +1,5 @@
 # Name: Social - Share
-# Last Updated: 2025-01-22 19:17:17.562314+00:00
+# Last Updated: 2025-01-22 19:22:59.698617+00:00
 # Domain Count: 12
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
