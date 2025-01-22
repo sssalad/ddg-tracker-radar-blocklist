@@ -1,11 +1,12 @@
 # Name: Session Replay
-# Last Updated: 2025-01-21 20:07:43.171143+00:00
-# Domain Count: 25
+# Last Updated: 2025-01-22 18:47:46.115222+00:00
+# Domain Count: 26
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 evaluation.canadapost-postescanada.ca
 0.0.0.0 flashtalking.com
 0.0.0.0 ezoic.net
 0.0.0.0 hellobar.com

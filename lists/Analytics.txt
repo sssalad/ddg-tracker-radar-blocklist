@@ -1,11 +1,27 @@
 # Name: Analytics
-# Last Updated: 2025-01-21 20:07:32.902788+00:00
-# Domain Count: 270
+# Last Updated: 2025-01-22 18:47:35.876922+00:00
+# Domain Count: 286
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 responder.wt.heise.de
+0.0.0.0 rma.homedepot.com
+0.0.0.0 a.rohde-schwarz.com
+0.0.0.0 sa.casino.org
+0.0.0.0 tags.elcaminohealth.org
+0.0.0.0 evaluation.canadapost-postescanada.ca
+0.0.0.0 analytics.ferguson.com
+0.0.0.0 fpa-cdn.adweek.com
+0.0.0.0 app03.ikk-classic.de
+0.0.0.0 fls-eu.amazon.co.za
+0.0.0.0 chat.mbna.ca
+0.0.0.0 collect.rbcroyalbank.com
+0.0.0.0 build.usgbc.org
+0.0.0.0 auth.accountingtoday.com
+0.0.0.0 ans.milb.com
+0.0.0.0 ca.hoffmann-group.com
 0.0.0.0 amung.us
 0.0.0.0 xiti.com
 0.0.0.0 getsitecontrol.com

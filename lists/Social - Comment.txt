@@ -1,5 +1,5 @@
 # Name: Social - Comment
-# Last Updated: 2025-01-21 20:07:45.451502+00:00
+# Last Updated: 2025-01-22 18:47:48.326301+00:00
 # Domain Count: 5
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

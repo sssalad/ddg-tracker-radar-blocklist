@@ -1,11 +1,23 @@
 # Name: Third-Party Analytics Marketing
-# Last Updated: 2025-01-21 20:07:48.989340+00:00
-# Domain Count: 158
+# Last Updated: 2025-01-22 18:47:51.804922+00:00
+# Domain Count: 170
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 responder.wt.heise.de
+0.0.0.0 rma.homedepot.com
+0.0.0.0 a.rohde-schwarz.com
+0.0.0.0 tags.elcaminohealth.org
+0.0.0.0 evaluation.canadapost-postescanada.ca
+0.0.0.0 analytics.ferguson.com
+0.0.0.0 fpa-cdn.adweek.com
+0.0.0.0 fls-eu.amazon.co.za
+0.0.0.0 collect.rbcroyalbank.com
+0.0.0.0 auth.accountingtoday.com
+0.0.0.0 ans.milb.com
+0.0.0.0 ca.hoffmann-group.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 addtoany.com
 0.0.0.0 npttech.com

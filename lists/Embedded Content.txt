@@ -1,11 +1,19 @@
 # Name: Embedded Content
-# Last Updated: 2025-01-21 20:07:35.289331+00:00
-# Domain Count: 76
+# Last Updated: 2025-01-22 18:47:38.291078+00:00
+# Domain Count: 84
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 evaluation.canadapost-postescanada.ca
+0.0.0.0 cams.camarchive.me
+0.0.0.0 app03.ikk-classic.de
+0.0.0.0 fls-eu.amazon.co.za
+0.0.0.0 chat.mbna.ca
+0.0.0.0 en-us.support.motorola.com
+0.0.0.0 build.usgbc.org
+0.0.0.0 auth.accountingtoday.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 addtoany.com
 0.0.0.0 npttech.com
