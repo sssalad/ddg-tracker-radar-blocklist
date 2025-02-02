@@ -1,44 +1,14 @@
 # Name: Obscure Ownership
-<<<<<<< HEAD
-# Last Updated: 2025-02-02 16:40:33.485955+00:00
-# Domain Count: 30
-=======
-# Last Updated: 2025-01-22 19:22:54.034165+00:00
+# Last Updated: 2025-02-02 16:51:45.694168+00:00
 # Domain Count: 6
->>>>>>> 3e5425cea2409b1d6f8bcc45090ed08702691c9b
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-0.0.0.0 cpx.to
 0.0.0.0 254a.com
+0.0.0.0 cpx.to
 0.0.0.0 s3xified.com
+0.0.0.0 company-target.com
 0.0.0.0 cdnwidget.com
 0.0.0.0 contentabc.com
-0.0.0.0 company-target.com
-<<<<<<< HEAD
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-0.0.0.0 cpx.to
-0.0.0.0 company-target.com
-0.0.0.0 cdnwidget.com
-=======
->>>>>>> 3e5425cea2409b1d6f8bcc45090ed08702691c9b
