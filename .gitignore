@@ -7,7 +7,7 @@ domains/*
 *.csv
 tracker-radar/*
 ~/*
-lists/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

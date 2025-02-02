@@ -1,12 +1,29 @@
 # Name: Social - Share
+<<<<<<< HEAD
 # Last Updated: 2025-02-02 16:40:41.519018+00:00
 # Domain Count: 108
+=======
+# Last Updated: 2025-01-22 19:22:59.698617+00:00
+# Domain Count: 12
+>>>>>>> 3e5425cea2409b1d6f8bcc45090ed08702691c9b
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
+0.0.0.0 addtoany.com
+0.0.0.0 dmxleo.com
+0.0.0.0 twitter.com
+0.0.0.0 shareaholic.com
+0.0.0.0 quora.com
+0.0.0.0 mail.ru
+0.0.0.0 tynt.com
+0.0.0.0 addthis.com
+0.0.0.0 instagram.com
+0.0.0.0 sharethis.com
+0.0.0.0 vk.com
 0.0.0.0 linkedin.com
+<<<<<<< HEAD
 0.0.0.0 sharethis.com
 0.0.0.0 addtoany.com
 0.0.0.0 vk.com
@@ -78,39 +95,5 @@
 0.0.0.0 instagram.com
 0.0.0.0 tynt.com
 0.0.0.0 mail.ru
-0.0.0.0 linkedin.com
-0.0.0.0 sharethis.com
-0.0.0.0 addtoany.com
-0.0.0.0 vk.com
-0.0.0.0 twitter.com
-0.0.0.0 dmxleo.com
-0.0.0.0 quora.com
-0.0.0.0 shareaholic.com
-0.0.0.0 addthis.com
-0.0.0.0 instagram.com
-0.0.0.0 tynt.com
-0.0.0.0 mail.ru
-0.0.0.0 linkedin.com
-0.0.0.0 sharethis.com
-0.0.0.0 addtoany.com
-0.0.0.0 vk.com
-0.0.0.0 twitter.com
-0.0.0.0 dmxleo.com
-0.0.0.0 quora.com
-0.0.0.0 shareaholic.com
-0.0.0.0 addthis.com
-0.0.0.0 instagram.com
-0.0.0.0 tynt.com
-0.0.0.0 mail.ru
-0.0.0.0 linkedin.com
-0.0.0.0 sharethis.com
-0.0.0.0 addtoany.com
-0.0.0.0 vk.com
-0.0.0.0 twitter.com
-0.0.0.0 dmxleo.com
-0.0.0.0 quora.com
-0.0.0.0 shareaholic.com
-0.0.0.0 addthis.com
-0.0.0.0 instagram.com
-0.0.0.0 tynt.com
-0.0.0.0 mail.ru
+=======
+>>>>>>> 3e5425cea2409b1d6f8bcc45090ed08702691c9b

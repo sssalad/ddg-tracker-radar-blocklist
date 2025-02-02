@@ -1,28 +1,18 @@
 # Name: Online Payment
+<<<<<<< HEAD
 # Last Updated: 2025-02-02 16:40:31.860763+00:00
 # Domain Count: 20
+=======
+# Last Updated: 2025-01-22 19:22:52.913598+00:00
+# Domain Count: 5
+>>>>>>> 3e5425cea2409b1d6f8bcc45090ed08702691c9b
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
 
 
-0.0.0.0 yandex.ru
-0.0.0.0 mercadopago.com
+0.0.0.0 fls-eu.amazon.co.za
 0.0.0.0 alipay.com
 0.0.0.0 amazon.com
+0.0.0.0 mercadopago.com
 0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com
-0.0.0.0 yandex.ru
-0.0.0.0 amazon.com

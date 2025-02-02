@@ -1,0 +1,1 @@
+Licensed under the CC BY-NC-SA 4.0 license, available at https://creativecommons.org/licenses/by-nc-sa/4.0/.
