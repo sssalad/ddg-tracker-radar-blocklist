@@ -1,6 +1,6 @@
 # Name: SSO
-# Last Updated: 2025-01-20 23:41:07.377036+00:00
-# Domain Count: 50
+# Last Updated: 2025-02-02 16:40:35.085819+00:00
+# Domain Count: 51
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -41,17 +41,18 @@
 0.0.0.0 amazon.com
 0.0.0.0 npttech.com
 0.0.0.0 yandex.ru
+0.0.0.0 tinypass.com
+0.0.0.0 force.com
+0.0.0.0 amazon.com
+0.0.0.0 npttech.com
+0.0.0.0 yandex.ru
 0.0.0.0 secureserver.net
 0.0.0.0 tinypass.com
 0.0.0.0 force.com
 0.0.0.0 amazon.com
 0.0.0.0 npttech.com
 0.0.0.0 yandex.ru
-0.0.0.0 tinypass.com
-0.0.0.0 force.com
-0.0.0.0 amazon.com
-0.0.0.0 npttech.com
-0.0.0.0 yandex.ru
+0.0.0.0 secureserver.net
 0.0.0.0 tinypass.com
 0.0.0.0 force.com
 0.0.0.0 amazon.com

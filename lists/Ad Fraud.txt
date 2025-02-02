@@ -1,6 +1,6 @@
 # Name: Ad Fraud
-# Last Updated: 2025-01-20 23:40:47.335948+00:00
-# Domain Count: 290
+# Last Updated: 2025-02-02 16:40:14.209702+00:00
+# Domain Count: 288
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -88,6 +88,7 @@
 0.0.0.0 userreport.com
 0.0.0.0 intentiq.com
 0.0.0.0 adsafeprotected.com
+0.0.0.0 adentifi.com
 0.0.0.0 1rx.io
 0.0.0.0 adsco.re
 0.0.0.0 blismedia.com
@@ -100,15 +101,13 @@
 0.0.0.0 maxmind.com
 0.0.0.0 reson8.com
 0.0.0.0 bing.com
-0.0.0.0 rfihub.net
+0.0.0.0 owneriq.net
 0.0.0.0 rlcdn.com
 0.0.0.0 bttrack.com
-0.0.0.0 adgrx.com
 0.0.0.0 moatads.com
 0.0.0.0 mediarithmics.com
 0.0.0.0 contextweb.com
 0.0.0.0 pubmatic.com
-0.0.0.0 mfadsrvr.com
 0.0.0.0 rtmark.net
 0.0.0.0 pubnation.com
 0.0.0.0 kargo.com
@@ -157,20 +156,19 @@
 0.0.0.0 getclicky.com
 0.0.0.0 2mdn.net
 0.0.0.0 bidswitch.net
-0.0.0.0 maxmind.com
 0.0.0.0 reson8.com
 0.0.0.0 bing.com
+0.0.0.0 owneriq.net
+0.0.0.0 uncn.jp
 0.0.0.0 rfihub.net
 0.0.0.0 rlcdn.com
 0.0.0.0 bttrack.com
 0.0.0.0 adgrx.com
-0.0.0.0 adrta.com
 0.0.0.0 moatads.com
 0.0.0.0 mediarithmics.com
 0.0.0.0 exponential.com
 0.0.0.0 contextweb.com
 0.0.0.0 pubmatic.com
-0.0.0.0 mfadsrvr.com
 0.0.0.0 rtmark.net
 0.0.0.0 pubnation.com
 0.0.0.0 kargo.com
@@ -179,6 +177,7 @@
 0.0.0.0 userreport.com
 0.0.0.0 intentiq.com
 0.0.0.0 adsafeprotected.com
+0.0.0.0 adentifi.com
 0.0.0.0 1rx.io
 0.0.0.0 adsco.re
 0.0.0.0 doubleverify.com
@@ -188,11 +187,13 @@
 0.0.0.0 2mdn.net
 0.0.0.0 bidswitch.net
 0.0.0.0 maxmind.com
+0.0.0.0 reson8.com
 0.0.0.0 bing.com
 0.0.0.0 owneriq.net
 0.0.0.0 rfihub.net
 0.0.0.0 rlcdn.com
 0.0.0.0 bttrack.com
+0.0.0.0 adgrx.com
 0.0.0.0 moatads.com
 0.0.0.0 mediarithmics.com
 0.0.0.0 contextweb.com
@@ -201,7 +202,6 @@
 0.0.0.0 pubnation.com
 0.0.0.0 kargo.com
 0.0.0.0 mgid.com
-0.0.0.0 userreport.com
 0.0.0.0 intentiq.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adentifi.com
@@ -220,7 +220,6 @@
 0.0.0.0 owneriq.net
 0.0.0.0 rfihub.net
 0.0.0.0 rlcdn.com
-0.0.0.0 smrtb.com
 0.0.0.0 bttrack.com
 0.0.0.0 adgrx.com
 0.0.0.0 moatads.com
@@ -228,7 +227,6 @@
 0.0.0.0 exponential.com
 0.0.0.0 contextweb.com
 0.0.0.0 pubmatic.com
-0.0.0.0 mfadsrvr.com
 0.0.0.0 rtmark.net
 0.0.0.0 pubnation.com
 0.0.0.0 kargo.com
@@ -282,13 +280,13 @@
 0.0.0.0 2mdn.net
 0.0.0.0 bidswitch.net
 0.0.0.0 maxmind.com
+0.0.0.0 reson8.com
 0.0.0.0 bing.com
 0.0.0.0 rlcdn.com
 0.0.0.0 bttrack.com
 0.0.0.0 adgrx.com
 0.0.0.0 moatads.com
 0.0.0.0 mediarithmics.com
-0.0.0.0 exponential.com
 0.0.0.0 contextweb.com
 0.0.0.0 pubmatic.com
 0.0.0.0 rtmark.net

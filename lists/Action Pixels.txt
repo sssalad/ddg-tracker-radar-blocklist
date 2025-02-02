@@ -1,6 +1,6 @@
 # Name: Action Pixels
-# Last Updated: 2025-01-20 23:40:45.577590+00:00
-# Domain Count: 547
+# Last Updated: 2025-02-02 16:40:12.537181+00:00
+# Domain Count: 549
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -99,6 +99,7 @@
 0.0.0.0 opmnstr.com
 0.0.0.0 ebay.com
 0.0.0.0 loopme.me
+0.0.0.0 tagcommander.com
 0.0.0.0 listrakbi.com
 0.0.0.0 bfmio.com
 0.0.0.0 contentsquare.net
@@ -152,6 +153,7 @@
 0.0.0.0 storygize.net
 0.0.0.0 linkedin.com
 0.0.0.0 ezoic.net
+0.0.0.0 optmnstr.com
 0.0.0.0 segment.com
 0.0.0.0 mouseflow.com
 0.0.0.0 yandex.ru
@@ -160,7 +162,6 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 opmnstr.com
 0.0.0.0 loopme.me
-0.0.0.0 tagcommander.com
 0.0.0.0 listrakbi.com
 0.0.0.0 bfmio.com
 0.0.0.0 contentsquare.net
@@ -188,7 +189,6 @@
 0.0.0.0 tealiumiq.com
 0.0.0.0 mxpnl.com
 0.0.0.0 ml314.com
-0.0.0.0 listrak.com
 0.0.0.0 parsely.com
 0.0.0.0 ubembed.com
 0.0.0.0 bazaarvoice.com
@@ -201,6 +201,7 @@
 0.0.0.0 sitescout.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 samplicio.us
+0.0.0.0 clicktale.net
 0.0.0.0 stackadapt.com
 0.0.0.0 2o7.net
 0.0.0.0 mail.ru
@@ -252,7 +253,6 @@
 0.0.0.0 bazaarvoice.com
 0.0.0.0 redditstatic.com
 0.0.0.0 mixpanel.com
-0.0.0.0 mediaplex.com
 0.0.0.0 commander1.com
 0.0.0.0 tynt.com
 0.0.0.0 pingdom.net
@@ -261,7 +261,6 @@
 0.0.0.0 samplicio.us
 0.0.0.0 clicktale.net
 0.0.0.0 stackadapt.com
-0.0.0.0 assoc-amazon.com
 0.0.0.0 2o7.net
 0.0.0.0 mail.ru
 0.0.0.0 ads-twitter.com
@@ -338,7 +337,6 @@
 0.0.0.0 loopme.me
 0.0.0.0 tagcommander.com
 0.0.0.0 listrakbi.com
-0.0.0.0 bfmio.com
 0.0.0.0 contentsquare.net
 0.0.0.0 bing.com
 0.0.0.0 impactradius-event.com
@@ -374,6 +372,7 @@
 0.0.0.0 pingdom.net
 0.0.0.0 sitescout.com
 0.0.0.0 tsyndicate.com
+0.0.0.0 clicktale.net
 0.0.0.0 stackadapt.com
 0.0.0.0 2o7.net
 0.0.0.0 mail.ru
@@ -381,7 +380,6 @@
 0.0.0.0 lijit.com
 0.0.0.0 linkedin.com
 0.0.0.0 ezoic.net
-0.0.0.0 optmnstr.com
 0.0.0.0 segment.com
 0.0.0.0 mouseflow.com
 0.0.0.0 yandex.ru
@@ -411,6 +409,7 @@
 0.0.0.0 exelator.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 hs-analytics.net
+0.0.0.0 bizographics.com
 0.0.0.0 mookie1.com
 0.0.0.0 flashtalking.com
 0.0.0.0 blueconic.net
@@ -419,6 +418,7 @@
 0.0.0.0 mxpnl.com
 0.0.0.0 exponential.com
 0.0.0.0 ml314.com
+0.0.0.0 listrak.com
 0.0.0.0 parsely.com
 0.0.0.0 ubembed.com
 0.0.0.0 bazaarvoice.com
@@ -437,6 +437,7 @@
 0.0.0.0 mail.ru
 0.0.0.0 ads-twitter.com
 0.0.0.0 lijit.com
+0.0.0.0 storygize.net
 0.0.0.0 linkedin.com
 0.0.0.0 ezoic.net
 0.0.0.0 optmnstr.com
@@ -449,7 +450,6 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 foresee.com
 0.0.0.0 opmnstr.com
-0.0.0.0 ebay.com
 0.0.0.0 loopme.me
 0.0.0.0 listrakbi.com
 0.0.0.0 bfmio.com
@@ -487,6 +487,7 @@
 0.0.0.0 bazaarvoice.com
 0.0.0.0 redditstatic.com
 0.0.0.0 mixpanel.com
+0.0.0.0 commander1.com
 0.0.0.0 tynt.com
 0.0.0.0 pingdom.net
 0.0.0.0 sitescout.com
@@ -503,6 +504,7 @@
 0.0.0.0 ezoic.net
 0.0.0.0 optmnstr.com
 0.0.0.0 segment.com
+0.0.0.0 mouseflow.com
 0.0.0.0 yandex.ru
 0.0.0.0 sc-static.net
 0.0.0.0 segment.io
@@ -535,7 +537,6 @@
 0.0.0.0 moatads.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 mxpnl.com
-0.0.0.0 exponential.com
 0.0.0.0 ml314.com
 0.0.0.0 netmng.com
 0.0.0.0 parsely.com
@@ -545,6 +546,7 @@
 0.0.0.0 mixpanel.com
 0.0.0.0 commander1.com
 0.0.0.0 tynt.com
+0.0.0.0 creative-serving.com
 0.0.0.0 pingdom.net
 0.0.0.0 sitescout.com
 0.0.0.0 tsyndicate.com

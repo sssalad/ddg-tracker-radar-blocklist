@@ -1,6 +1,6 @@
 # Name: Social Network
-# Last Updated: 2025-01-20 23:41:10.559233+00:00
-# Domain Count: 62
+# Last Updated: 2025-02-02 16:40:38.288165+00:00
+# Domain Count: 61
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -23,7 +23,6 @@
 0.0.0.0 linkedin.com
 0.0.0.0 vk.com
 0.0.0.0 snapchat.com
-0.0.0.0 rfihub.net
 0.0.0.0 twitter.com
 0.0.0.0 quora.com
 0.0.0.0 instagram.com

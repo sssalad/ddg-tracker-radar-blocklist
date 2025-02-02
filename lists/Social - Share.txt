@@ -1,6 +1,6 @@
 # Name: Social - Share
-# Last Updated: 2025-01-20 23:41:13.559363+00:00
-# Domain Count: 107
+# Last Updated: 2025-02-02 16:40:41.519018+00:00
+# Domain Count: 108
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -61,6 +61,7 @@
 0.0.0.0 twitter.com
 0.0.0.0 dmxleo.com
 0.0.0.0 quora.com
+0.0.0.0 shareaholic.com
 0.0.0.0 addthis.com
 0.0.0.0 instagram.com
 0.0.0.0 tynt.com

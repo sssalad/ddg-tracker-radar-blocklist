@@ -1,5 +1,5 @@
 # Name: Audience Measurement
-# Last Updated: 2025-01-20 23:40:56.667921+00:00
+# Last Updated: 2025-02-02 16:40:23.762166+00:00
 # Domain Count: 984
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
@@ -32,6 +32,7 @@
 0.0.0.0 loopme.me
 0.0.0.0 tagcommander.com
 0.0.0.0 hotjar.com
+0.0.0.0 pswec.com
 0.0.0.0 tiqcdn.com
 0.0.0.0 bluecava.com
 0.0.0.0 onthe.io
@@ -165,6 +166,7 @@
 0.0.0.0 adform.net
 0.0.0.0 crwdcntrl.net
 0.0.0.0 loopme.me
+0.0.0.0 tagcommander.com
 0.0.0.0 hotjar.com
 0.0.0.0 tiqcdn.com
 0.0.0.0 bluecava.com
@@ -219,7 +221,6 @@
 0.0.0.0 insightexpressai.com
 0.0.0.0 listrak.com
 0.0.0.0 klaviyo.com
-0.0.0.0 connexity.net
 0.0.0.0 netmng.com
 0.0.0.0 parsely.com
 0.0.0.0 omtrdc.net
@@ -278,7 +279,6 @@
 0.0.0.0 adform.net
 0.0.0.0 crwdcntrl.net
 0.0.0.0 loopme.me
-0.0.0.0 tagcommander.com
 0.0.0.0 hotjar.com
 0.0.0.0 tiqcdn.com
 0.0.0.0 onthe.io
@@ -290,6 +290,7 @@
 0.0.0.0 permutive.com
 0.0.0.0 unrulymedia.com
 0.0.0.0 cpx.to
+0.0.0.0 owneriq.net
 0.0.0.0 tinypass.com
 0.0.0.0 adobedtm.com
 0.0.0.0 hubapi.com
@@ -324,7 +325,6 @@
 0.0.0.0 teads.tv
 0.0.0.0 scorecardresearch.com
 0.0.0.0 insightexpressai.com
-0.0.0.0 listrak.com
 0.0.0.0 klaviyo.com
 0.0.0.0 parsely.com
 0.0.0.0 omtrdc.net
@@ -335,7 +335,6 @@
 0.0.0.0 pubmatic.com
 0.0.0.0 addthis.com
 0.0.0.0 mixpanel.com
-0.0.0.0 wbtrk.net
 0.0.0.0 thrtle.com
 0.0.0.0 hybrid.ai
 0.0.0.0 media6degrees.com
@@ -406,7 +405,6 @@
 0.0.0.0 krxd.net
 0.0.0.0 company-target.com
 0.0.0.0 alexametrics.com
-0.0.0.0 lkqd.net
 0.0.0.0 micpn.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 mediavine.com
@@ -495,7 +493,6 @@
 0.0.0.0 hotjar.com
 0.0.0.0 tiqcdn.com
 0.0.0.0 onthe.io
-0.0.0.0 maxmind.com
 0.0.0.0 listrakbi.com
 0.0.0.0 ispot.tv
 0.0.0.0 contentsquare.net
@@ -503,6 +500,7 @@
 0.0.0.0 permutive.com
 0.0.0.0 unrulymedia.com
 0.0.0.0 cpx.to
+0.0.0.0 owneriq.net
 0.0.0.0 tinypass.com
 0.0.0.0 adobedtm.com
 0.0.0.0 ioam.de
@@ -514,12 +512,12 @@
 0.0.0.0 optimizely.com
 0.0.0.0 krxd.net
 0.0.0.0 company-target.com
+0.0.0.0 uncn.jp
 0.0.0.0 alexametrics.com
 0.0.0.0 lkqd.net
 0.0.0.0 micpn.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 mediavine.com
-0.0.0.0 revcontent.com
 0.0.0.0 googletagservices.com
 0.0.0.0 exelator.com
 0.0.0.0 hsadspixel.net
@@ -540,6 +538,7 @@
 0.0.0.0 ml314.com
 0.0.0.0 teads.tv
 0.0.0.0 scorecardresearch.com
+0.0.0.0 insightexpressai.com
 0.0.0.0 klaviyo.com
 0.0.0.0 parsely.com
 0.0.0.0 omtrdc.net
@@ -628,6 +627,7 @@
 0.0.0.0 exelator.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 eyeota.net
+0.0.0.0 aidata.io
 0.0.0.0 hs-analytics.net
 0.0.0.0 wt-eu02.net
 0.0.0.0 mookie1.com
@@ -647,9 +647,9 @@
 0.0.0.0 bazaarvoice.com
 0.0.0.0 google-analytics.com
 0.0.0.0 contextweb.com
-0.0.0.0 bluekai.com
 0.0.0.0 pubmatic.com
 0.0.0.0 addthis.com
+0.0.0.0 tubemogul.com
 0.0.0.0 mixpanel.com
 0.0.0.0 wbtrk.net
 0.0.0.0 thrtle.com
@@ -665,6 +665,7 @@
 0.0.0.0 gemius.pl
 0.0.0.0 dynamicyield.com
 0.0.0.0 pubnation.com
+0.0.0.0 rutarget.ru
 0.0.0.0 igodigital.com
 0.0.0.0 stackadapt.com
 0.0.0.0 liadm.com
@@ -674,12 +675,10 @@
 0.0.0.0 2o7.net
 0.0.0.0 mgid.com
 0.0.0.0 amung.us
-0.0.0.0 userreport.com
 0.0.0.0 lijit.com
 0.0.0.0 bkrtx.com
 0.0.0.0 branch.io
 0.0.0.0 ezoic.net
-0.0.0.0 truoptik.com
 0.0.0.0 pro-market.net
 0.0.0.0 yandex.ru
 0.0.0.0 treasuredata.com
@@ -688,7 +687,6 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 tvsquared.com
 0.0.0.0 adsco.re
-0.0.0.0 crsspxl.com
 0.0.0.0 blismedia.com
 0.0.0.0 deepintent.com
 0.0.0.0 openx.net
@@ -710,6 +708,7 @@
 0.0.0.0 owneriq.net
 0.0.0.0 tinypass.com
 0.0.0.0 adobedtm.com
+0.0.0.0 ioam.de
 0.0.0.0 hubapi.com
 0.0.0.0 monetate.net
 0.0.0.0 clickagy.com
@@ -730,6 +729,7 @@
 0.0.0.0 eyeota.net
 0.0.0.0 aidata.io
 0.0.0.0 hs-analytics.net
+0.0.0.0 bizographics.com
 0.0.0.0 mookie1.com
 0.0.0.0 flashtalking.com
 0.0.0.0 moatads.com
@@ -744,22 +744,22 @@
 0.0.0.0 teads.tv
 0.0.0.0 scorecardresearch.com
 0.0.0.0 insightexpressai.com
+0.0.0.0 listrak.com
 0.0.0.0 klaviyo.com
 0.0.0.0 parsely.com
 0.0.0.0 omtrdc.net
 0.0.0.0 bazaarvoice.com
 0.0.0.0 google-analytics.com
 0.0.0.0 contextweb.com
+0.0.0.0 sundaysky.com
 0.0.0.0 bluekai.com
 0.0.0.0 pubmatic.com
 0.0.0.0 addthis.com
-0.0.0.0 tubemogul.com
 0.0.0.0 mixpanel.com
 0.0.0.0 thrtle.com
 0.0.0.0 hybrid.ai
 0.0.0.0 media6degrees.com
 0.0.0.0 app.link
-0.0.0.0 navdmp.com
 0.0.0.0 commander1.com
 0.0.0.0 chartbeat.net
 0.0.0.0 pingdom.net
@@ -869,17 +869,21 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 mixpanel.com
 0.0.0.0 thrtle.com
+0.0.0.0 hybrid.ai
 0.0.0.0 media6degrees.com
 0.0.0.0 app.link
 0.0.0.0 navdmp.com
+0.0.0.0 commander1.com
 0.0.0.0 chartbeat.net
 0.0.0.0 pingdom.net
 0.0.0.0 npttech.com
 0.0.0.0 quantserve.com
+0.0.0.0 gemius.pl
 0.0.0.0 dynamicyield.com
 0.0.0.0 affec.tv
 0.0.0.0 pubnation.com
 0.0.0.0 samplicio.us
+0.0.0.0 rutarget.ru
 0.0.0.0 igodigital.com
 0.0.0.0 stackadapt.com
 0.0.0.0 liadm.com
@@ -909,7 +913,6 @@
 0.0.0.0 adform.net
 0.0.0.0 crwdcntrl.net
 0.0.0.0 loopme.me
-0.0.0.0 nuggad.net
 0.0.0.0 tagcommander.com
 0.0.0.0 hotjar.com
 0.0.0.0 tiqcdn.com
@@ -935,7 +938,6 @@
 0.0.0.0 alexametrics.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 mediavine.com
-0.0.0.0 revcontent.com
 0.0.0.0 googletagservices.com
 0.0.0.0 exelator.com
 0.0.0.0 hsadspixel.net
@@ -947,7 +949,6 @@
 0.0.0.0 tealiumiq.com
 0.0.0.0 ensighten.com
 0.0.0.0 mxpnl.com
-0.0.0.0 exponential.com
 0.0.0.0 qualtrics.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 ml314.com
@@ -965,7 +966,6 @@
 0.0.0.0 tubemogul.com
 0.0.0.0 mixpanel.com
 0.0.0.0 thrtle.com
-0.0.0.0 hybrid.ai
 0.0.0.0 media6degrees.com
 0.0.0.0 app.link
 0.0.0.0 navdmp.com

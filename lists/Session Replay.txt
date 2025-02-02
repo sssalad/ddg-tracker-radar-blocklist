@@ -1,6 +1,6 @@
 # Name: Session Replay
-# Last Updated: 2025-01-20 23:41:08.935062+00:00
-# Domain Count: 203
+# Last Updated: 2025-02-02 16:40:36.721832+00:00
+# Domain Count: 206
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
 # For more details on how this list was generated, visit: https://github.com/sssalad/ddg-tracker-radar-blocklist
@@ -76,6 +76,7 @@
 0.0.0.0 ml314.com
 0.0.0.0 mixpanel.com
 0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
 0.0.0.0 qualaroo.com
 0.0.0.0 ezoic.net
 0.0.0.0 visualwebsiteoptimizer.com
@@ -142,6 +143,7 @@
 0.0.0.0 ml314.com
 0.0.0.0 mixpanel.com
 0.0.0.0 webvisor.org
+0.0.0.0 clicktale.net
 0.0.0.0 qualaroo.com
 0.0.0.0 ezoic.net
 0.0.0.0 visualwebsiteoptimizer.com
@@ -149,6 +151,7 @@
 0.0.0.0 mouseflow.com
 0.0.0.0 yandex.ru
 0.0.0.0 abtasty.com
+0.0.0.0 inspectlet.com
 0.0.0.0 hotjar.com
 0.0.0.0 contentsquare.net
 0.0.0.0 permutive.com
@@ -192,6 +195,7 @@
 0.0.0.0 ezoic.net
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 fullstory.com
+0.0.0.0 mouseflow.com
 0.0.0.0 yandex.ru
 0.0.0.0 abtasty.com
 0.0.0.0 hotjar.com
@@ -203,7 +207,6 @@
 0.0.0.0 flashtalking.com
 0.0.0.0 tealiumiq.com
 0.0.0.0 mxpnl.com
-0.0.0.0 exponential.com
 0.0.0.0 qualtrics.com
 0.0.0.0 ml314.com
 0.0.0.0 mixpanel.com
