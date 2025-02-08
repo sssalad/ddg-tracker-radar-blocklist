@@ -1,5 +1,5 @@
 # Name: Embedded Content
-# Last Updated: 2025-02-02 16:51:41.497327+00:00
+# Last Updated: 2025-02-08 18:59:41.515548+00:00
 # Domain Count: 85
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

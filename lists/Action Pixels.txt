@@ -1,5 +1,5 @@
 # Name: Action Pixels
-# Last Updated: 2025-02-02 16:51:35.819750+00:00
+# Last Updated: 2025-02-08 18:59:36.150585+00:00
 # Domain Count: 83
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
