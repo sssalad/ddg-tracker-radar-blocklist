@@ -1,5 +1,5 @@
 # Name: Ad Fraud
-# Last Updated: 2025-02-08 18:59:36.937986+00:00
+# Last Updated: 2025-02-16 21:21:07.755501+00:00
 # Domain Count: 47
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar

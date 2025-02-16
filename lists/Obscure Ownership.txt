@@ -1,5 +1,5 @@
 # Name: Obscure Ownership
-# Last Updated: 2025-02-08 18:59:45.471296+00:00
+# Last Updated: 2025-02-16 21:21:16.243106+00:00
 # Domain Count: 6
 
 # This list is based off of domains found in Duck Duck Go's Tracker Radar: https://github.com/duckduckgo/tracker-radar
